@@ -16,4 +16,7 @@ Skype: kathrecha.krushn
 Gmail: kathrechakrushn@gmail.com, me@iamkrushn.com
 
 Website: http://iamkrushn.com
-<!-- GitAds-Verify: EJF1E3PRSS3Z4RATRSC9QQJ7MRXVDATJ -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/yii2-file-manager@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/yii2-file-manager@github)
+
